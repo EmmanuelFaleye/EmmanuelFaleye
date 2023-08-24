@@ -2,7 +2,7 @@
 - 👀 I’m interested in following Jesus
 - 🌱 I’m currently learning FRONT-END DEVELOPMENT
 - 💞️ I’m looking to collaborate on  
-- 📫 How to reach me 08088829992
+- 📫 How to reach me +2348088829992
 
 <!---
 EmmanuelFaleye/EmmanuelFaleye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
